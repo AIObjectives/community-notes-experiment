@@ -48,8 +48,8 @@ We may also get better performance by addressing the fact that our Polis matrice
  
 We could also start look at multi-dimensional polarisation
 
-- the user_alignment and note_alignent vectors could be replaced by matrices
-- the case with two dimensions could be particularly interesting (and easy to plot)
+- [ ] the user_alignment and note_alignent vectors could be replaced by matrices
+- [ ] the case with two dimensions could be particularly interesting (and easy to plot)
 
 
 
