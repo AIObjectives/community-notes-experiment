@@ -1,0 +1,343 @@
+timestamp,comment-id,author-id,agrees,disagrees,moderated,is-meta,is-seed,group-informed-consensus,comment-body
+1695309375466,321,210,3,1,1,false,false,0.25,"AI should be in line with democratic principles, but it is not a Western democracy. It should be in line with democracies around the world."
+1695372499305,341,197,6,0,1,false,false,0.4375,"Public awareness, education, and participation around AI and the environment need to be improved."
+1695372492070,340,197,5,0,1,false,false,0.5333333333333333,"The benefits and risks of AI systems should be equitably distributed, not concentrated among a few groups."
+1695372485179,339,197,5,0,1,false,false,0.42857142857142855,AI should not automate or control critical environmental decisions without human oversight.
+1695372478352,338,197,6,1,1,false,false,0.38888888888888884,"Caution and care, not speed, should guide the development and deployment of transformative AI applications."
+1695372471227,337,197,7,0,1,false,false,0.5833333333333333,"AI systems should promote justice, empowerment, and environmental stewardship, not just efficiency and profit."
+1695372464905,336,197,6,0,1,false,false,0.4375,AI governance frameworks must include environmental representatives and consider ecological impacts.
+1695372457949,335,197,2,0,1,false,false,0.30000000000000004,"AI should be leveraged to help monitor, model, and ultimately reduce humanity's environmental footprint."
+1695372450389,334,197,6,0,1,false,false,0.4375,AI researchers and developers have an ethical responsibility to consider the environmental impacts of their work.
+1695372442521,333,197,4,0,1,false,false,0.3571428571428571,Comprehensive life cycle assessments should be conducted for AI systems to understand their environmental footprints.
+1695372432239,332,197,6,0,1,false,false,0.4375,"AI systems should be designed and deployed with sustainability in mind, considering environmental impacts like energy use, materials & waste"
+1695372401837,331,197,5,0,1,false,false,0.42857142857142855,"AI development should encourage innovation & ensure the benefits are accessible to all, irrespective of geographic or economic barriers."
+1695372325440,330,197,6,0,1,false,false,0.4375,AI tech should have a comprehensive risk assessment evaluating not just the environmental impact but also societal & ethical implications.
+1695372262913,329,197,4,1,1,false,false,0.3571428571428571,Strict data privacy regulations should be in place to protect individuals from unauthorized data collection and usage by AI systems.
+1695372254912,328,197,3,0,1,false,false,0.4,"AI should be developed and deployed with a focus on solving pressing societal challenges, rather than solely for profit."
+1695372243312,327,197,6,0,1,false,false,0.4375,AI technologies should strive to be as energy-efficient as possible to mitigate their environmental impact.
+1695372232373,326,197,3,0,1,false,false,0.4,"While global standards are ideal, it's crucial to have localized AI regulations that respect cultural and societal norms."
+1695372221486,325,197,4,1,1,false,false,0.4444444444444444,AI development should adhere to a universally accepted ethical framework that prioritizes human well-being and environmental sustainability.
+1695372206089,324,197,6,0,1,false,false,0.4375,"The governance of AI should involve a diverse set of stakeholders, including civil society, academia, and industry."
+1695372195948,323,197,8,0,1,false,false,0.45,"There should be a concerted effort to educate the public about the capabilities, limitations, and ethical considerations of AI."
+1695372183900,322,197,4,0,1,false,false,0.41666666666666663,"All entities involved in AI development should disclose the methodologies and data sets they use, to ensure ethical and unbiased AI systems."
+1695275439989,295,203,6,1,1,false,false,0.5,Governments must expand access to data while protecting privacy to enable AI for good.
+1695277152694,320,203,7,0,1,false,false,0.4444444444444444,Global cooperation on AI governance is crucial to manage environmental transformations ahead.
+1695277143239,319,203,6,0,1,false,false,0.4375,"To realize sustainability benefits, AI deployment must respect nature and human dignity."
+1695277126063,318,203,4,0,1,false,false,0.27777777777777773,AI can drive optimization but also increased consumption - sustainable values should guide its design.
+1695277116655,317,203,8,0,1,false,false,0.45,"AI has potential environmental risks we must monitor and mitigate, like energy usage and e-waste."
+1695277104300,316,203,5,0,1,false,false,0.2857142857142857,Robotics and automation can reduce mining impacts but may increase energy demands - requiring planning.
+1695277095670,315,203,8,0,1,false,false,0.48484848484848486,AI modeling of extreme weather helps societies build resilience and adapt to climate change.
+1695277088571,314,203,6,0,1,false,false,0.4444444444444444,AI could help fairly allocate environmental resources and pollution credits.
+1695277078907,313,203,5,0,1,false,false,0.41666666666666663,AI-driven sensors and drone analytics empower precision forestry and regenerative agriculture.
+1695277071189,312,203,4,1,1,false,false,0.26666666666666666,Natural language processing of scientific texts by AI accelerates discovery of green technologies.
+1695277062665,311,203,4,0,1,false,false,0.4444444444444444,AI can optimize smart homes and buildings for energy efficiency and occupant wellbeing.
+1695277051408,310,203,7,0,1,false,false,0.4666666666666667,Synthetic biology guided by AI may lead to breakthroughs like low-carbon cement and plastic alternatives.
+1695277042019,309,203,4,0,1,false,false,0.4444444444444444,Shared autonomous electric vehicles leveraging AI can complement mass transit and reduce emissions.
+1695277030937,308,203,7,0,1,false,false,0.5185185185185184,"AI-based early warning systems can alert communities to pollution, wildfires and other threats."
+1695277023350,307,203,4,0,1,false,false,0.2777777777777778,Satellite imagery analyzed by AI assists conservation efforts by tracking biodiversity loss.
+1695277011021,306,203,7,0,1,false,false,0.5185185185185184,AI can enhance environmental impact assessments and scenarios for sustainable policymaking.
+1695277002499,305,203,3,0,1,false,false,0.4,Matching renewable energy supply and demand using AI grid management will enable decarbonization.
+1695276995289,304,203,8,0,1,false,false,0.4444444444444444,AI tools can empower citizens to monitor environmental quality and defend ecological rights.
+1695276986004,303,203,5,0,1,false,false,0.41666666666666663,AI-enabled precision agriculture can reduce excessive water and chemical use on farms.
+1695276975577,302,203,7,0,1,false,false,0.5185185185185184,Intelligent transport systems powered by AI can make mobility more efficient and sustainable.
+1695276965988,301,203,4,0,1,false,false,0.3571428571428571,"AI can help optimize energy grids, reducing waste and carbon emissions."
+1695275491618,300,203,4,1,1,false,false,0.3571428571428571,"AI should be used judiciously in accordance with principles of justice, fairness and human dignity."
+1695275482283,299,203,5,0,1,false,false,0.3333333333333333,Continuous risk-benefit assessments enable agile AI governance responsive to societal changes.
+1695275472571,298,203,6,0,1,false,false,0.4375,AI requires a whole-of-society approach - collaboration between all stakeholders is key.
+1695275462799,297,203,9,0,1,false,false,0.5454545454545454,We need stronger digital security to prevent attacks on AI systems that could cause social harm.
+1695275451436,296,203,5,0,1,false,false,0.375,"Diversity and inclusion in AI teams and data leads to better performing, safer systems."
+1695275430785,294,203,7,0,1,false,false,0.5185185185185184,The benefits and risks of AI vary based on context - one size fits all governance is insufficient.
+1695275421255,293,203,6,0,1,false,false,0.5714285714285714,AI should not be used by companies to nudge or manipulate people against their best interests.
+1695275402726,292,203,5,0,1,false,false,0.4761904761904761,"Regulatory frameworks for AI must be agile, iterative and based on evidence."
+1695275392752,291,203,11,0,1,false,false,0.6060606060606061,AI actors should adopt mechanisms for redress in case of harm from AI systems.
+1695275379859,290,203,7,1,1,false,false,0.2962962962962963,Effective public consultation can guide responsible AI innovation that serves societal needs.
+1695275370105,289,203,3,0,1,false,false,0.26666666666666666,"AI should be designed to augment human intelligence and creativity, not replace it."
+1695275360295,288,203,9,0,1,false,false,0.4545454545454546,We must continually reassess AI systems for unintended consequences as they interact with society.
+1695275350560,287,203,11,0,1,false,false,0.46153846153846156,International standards are needed to ensure AI actors adhere to ethical principles.
+1695275339187,286,203,5,0,1,false,false,0.41666666666666663,Governments should invest in digital infrastructure and AI skills training to prevent inequalities.
+1695275328563,285,203,6,0,1,false,false,0.5,"AI can help achieve the UN Sustainable Development Goals, if developed responsibly and inclusively."
+1695275319020,284,203,7,0,1,false,false,0.4444444444444444,Privacy risks from AI systems need to be assessed and adequately mitigated.
+1695275306956,283,203,8,0,1,false,false,0.5333333333333333,"Humans should remain in control of autonomous weapon systems, not cede lethal decisions to AI."
+1695275295342,282,203,8,0,1,false,false,0.4090909090909091,AI should be developed and applied in accordance with human rights laws and values.
+1695275278271,281,203,9,0,1,false,false,0.5925925925925926,"We must ensure algorithms are fair, accountable and transparent in order to build public trust in AI systems."
+1695272089991,280,208,12,0,1,false,false,0.6153846153846154,"To promote responsible AI, Companies, countries, and governments should be doing more to educate and inform consumers and end users."
+1695271634057,279,208,5,2,1,false,false,0.3125,"Companies and countries are focused on the race to AI, w/o properly considering the societal implications and governments aren't protecting"
+1695271383057,278,208,4,0,1,false,false,0.3571428571428571,"Many blame AI for bias, yet the training data points out the existing biases in the system, therefore we should address underlying issues"
+1695270893398,277,208,2,1,1,false,false,0.2,"We should focus on mitigating the known recurrences of AI incidents from new entrants, products, and services(racial bias in face rec tech)"
+1695233905710,276,206,10,0,1,false,false,0.5555555555555555,"AI technologies should be accessible to everyone, Irrespectively from their technical background"
+1695205305074,204,197,4,1,1,false,false,0.2777777777777778,We should use AI to help people understand how their daily choices can affect the environment.
+1695205323787,206,197,9,0,1,false,false,0.5,AI tools should help us recycle better by sorting waste more accurately.
+1695205940304,242,201,10,0,1,false,false,0.4583333333333333,The global community should work together to ensure that AI advancements are harmonized with the Sustainable Development Goals (SDGs).
+1695206223742,244,201,9,1,1,false,false,0.5,"AI should help us value all life forms for their own sake, not just for what they can do for humans."
+1695224845157,275,204,5,1,1,false,false,0.2222222222222222,We must adopt a Safety By Design approach to prevent GenerativeAI tools from being used for extremist content and disinformation
+1695210840843,274,197,1,3,1,false,false,0.1111111111111111,AI corporations don't need local consent for large environmental projects; their expertise suffices.
+1695210695111,273,197,2,4,1,false,false,0.16666666666666666,"Tech companies should be allowed to own and control public natural resources, leveraging AI to manage them more efficiently than governments"
+1695210682105,272,197,1,6,1,false,false,0.08333333333333333,"We should prioritize investments in AI technologies that benefit the wealthiest in society, as they will trickle down to benefit everyone"
+1695210637647,271,197,1,2,1,false,false,0.14285714285714285,"We should replace local governance structures with AI systems managed by tech corporations to ensure optimized, data-driven management."
+1695210604936,270,197,3,2,1,false,false,0.19047619047619047,We should permit the unrestricted collection & sale of individuals' personal data to fuel AI that could potentially benefit humanity.
+1695208947570,269,197,4,3,1,false,false,0.16666666666666666,"We should use AI to enhance the abilities of humans, creating a class of individuals better equipped to survive climate change."
+1695208736929,268,200,1,4,1,false,false,0.14285714285714285,"Governments should implement strict surveillance using AI to enforce regulations, even at the cost of individual privacy."
+1695208490635,267,200,1,2,1,false,false,0.125,"AI should be used to create genetically modified organisms (GMOs) to address food scarcity, even if it means altering natural ecosystems."
+1695208389436,266,200,4,4,1,false,false,0.25,We should prioritize the development of AI technologies even if it results in significant job losses in traditional sectors.
+1695208313216,265,200,1,4,1,false,false,0.125,"We should allow AI to control and manage entire cities to optimize environmental sustainability, even if it reduces human control & agency."
+1695208289811,264,200,1,3,1,false,false,0.14285714285714285,Human populations should be controlled and managed by AI systems to ensure sustainable resource use and environmental conservation.
+1695207450439,263,197,8,1,1,false,false,0.525,AI technologies should be developed with a focus on reducing their own environmental impact over their lifecycle.
+1695207406570,262,197,7,0,1,false,false,0.36363636363636365,AI should be used responsibly to support efforts in protecting and preserving the environment for future generations.
+1695207242361,261,197,7,1,1,false,false,0.36363636363636365,AI will help us solve climate change through enabling scientific breakthroughs
+1695206580331,260,201,14,0,1,false,false,0.6923076923076923,"AI should operate on a rule of not harming the environment, respecting the rights of all beings and ecosystems."
+1695206570011,259,201,10,0,1,false,false,0.28205128205128205,"We should use AI to question practices that see nature only as a source of profit, ignoring its own value."
+1695206555249,258,201,10,0,1,false,false,0.4583333333333333,AI should help us create rules that prioritize the health of ecosystems over making money.
+1695206548632,257,201,9,0,1,false,false,0.38461538461538464,AI should help us to reuse and restore things more
+1695206533059,256,201,8,3,1,false,false,0.3333333333333333,"AI should help preserve the wisdom and practices of native cultures, honoring their respect for nature."
+1695206525597,255,201,8,2,1,false,false,0.375,"AI should respect all living things, not just how they can be used for human benefit."
+1695206516911,254,201,6,0,1,false,false,0.35000000000000003,AI should encourage us to value ecological balance and the wellbeing of all species over constant growth.
+1695206507366,253,201,9,1,1,false,false,0.5,"AI tools should encourage us to view the environment and its creatures as a community we are a part of, not just resources to use."
+1695206500660,252,201,7,0,1,false,false,0.4,AI should help us understand and respect the relationships between different elements in nature
+1695206475265,251,201,6,2,1,false,false,0.2592592592592592,"AI development should be based on the belief that nature has its own value, even without human use."
+1695206468350,250,201,7,1,1,false,false,0.4242424242424242,"AI should help people learn about the worth of varied plants and animals, beyond what they offer to humans."
+1695206460128,249,201,11,1,1,false,false,0.39285714285714285,We should use AI to question the idea that all technology is good and consider how it might harm nature and animals.
+1695206361033,248,201,10,2,1,false,false,0.28205128205128205,"AI should guide us to care for the health of our whole planet, not just human societies."
+1695206353378,247,201,10,1,1,false,false,0.39285714285714285,"AI should help us live harmoniously with wild animals and plants, not just use them for our benefit."
+1695206346234,246,201,5,0,1,false,false,0.30000000000000004,AI should encourage us to see and value the connections between all things in nature.
+1695206338380,245,201,10,0,1,false,false,0.4583333333333333,"AI should be developed with respect for all living things, not just focusing on humans."
+1695205948022,243,201,9,0,1,false,false,0.5454545454545454,Open-source AI technologies can foster collaborative efforts globally to address environmental challenges more effectively.
+1695205933130,241,201,6,0,1,false,false,0.4,"AI can be a tool in the fight against illegal activities that harm the environment, such as poaching and illegal logging."
+1695205924966,240,201,3,0,1,false,false,0.25,We should encourage the development of AI tools that can help individuals reduce their personal carbon footprints.
+1695205915888,239,201,7,0,1,false,false,0.38888888888888884,"AI technologies should be developed to enhance the efficiency of water management systems, reducing waste and promoting conservation."
+1695205907075,238,201,6,0,1,false,false,0.35000000000000003,Leveraging AI for environmental education can foster a society that is conscious and proactive about environmental conservation.
+1695205875795,237,201,6,1,1,false,false,0.23333333333333334,We must encourage interdisciplinary collaborations that foster the symbiotic development of AI and environmental sustainability.
+1695205822869,236,197,7,0,1,false,false,0.4,AI-driven innovations must be accessible to small and medium enterprises to foster environmentally sustainable practices.
+1695205812380,235,197,10,0,1,false,false,0.39285714285714285,"AI should be employed to enhance public transportation systems, reducing traffic congestion and lowering greenhouse gas emissions."
+1695205800816,234,197,8,0,1,false,false,0.5333333333333333,It is vital to foster transparency in AI algorithms to ensure they are not contributing to environmental degradation.
+1695205691244,233,197,5,2,1,false,false,0.30000000000000004,AI should be designed with energy efficiency in mind to reduce its carbon footprint and promote a healthier environment.
+1695205685195,232,197,5,0,1,false,false,0.3333333333333333,"AI can be pivotal in developing circular economy strategies, aiding in waste management, and promoting recycling."
+1695205675756,231,197,11,0,1,false,false,0.5641025641025641,It is crucial to promote the development of AI technologies that can aid in the conservation of biodiversity.
+1695205669162,230,197,10,1,1,false,false,0.3055555555555555,The deployment of AI should come with environmental impact assessments to understand and mitigate any potential harm to the environment.
+1695205660733,229,197,7,1,1,false,false,0.4666666666666667,"AI should be used to create predictive models to help forecast natural disasters more accurately, resulting better preparedness & response"
+1695205614759,228,197,5,1,1,false,false,0.2222222222222222,It is essential to implement strict regulations that prevent AI from being used to exploit natural resources irresponsibly.
+1695205606633,227,197,5,0,1,false,false,0.41666666666666663,AI applications in agriculture should prioritize sustainable farming practices to help mitigate climate change.
+1695205598864,226,197,7,0,1,false,false,0.5185185185185184,Governments should incentivize the use of AI in developing renewable energy sources and enhancing energy efficiency.
+1695205591411,225,197,5,0,1,false,false,0.3333333333333333,AI developers must work in tandem with environmental scientists to ensure that AI technologies are sustainable and environmentally friendly.
+1695205581719,224,197,4,0,1,false,false,0.3571428571428571,"AI should be leveraged to optimize energy consumption in urban infrastructures, reducing the carbon footprint."
+1695205492044,223,197,4,0,1,false,false,0.2777777777777778,"AI should assist in fostering a community spirit, encouraging people to work together for a cleaner and greener future."
+1695205483299,222,197,9,1,1,false,false,0.5,AI can help us in making transport greener
+1695205468458,221,197,8,0,1,false,false,0.4090909090909091,"It is crucial that AI does not make the rich richer while forgetting about the poor, especially in environmental solutions."
+1695205456509,220,197,8,0,1,false,false,0.5333333333333333,AI should help us in coming up with creative solutions to reduce pollution in our rivers and oceans.
+1695205448841,219,197,5,3,1,false,false,0.2222222222222222,We should prioritize the use of AI in creating affordable and green housing solutions.
+1695205440799,218,197,8,0,1,false,false,0.45,AI should be created and used in a way that respects the rights and cultures of indigenous peoples.
+1695205432279,217,197,7,0,1,false,false,0.4444444444444444,AI can assist in monitoring and maintaining the health of our forests.
+1695205421761,216,197,3,0,1,false,false,0.2857142857142857,It is important to ensure that AI does not promote harmful practices like overfishing in our oceans.
+1695205409989,215,197,7,1,1,false,false,0.3076923076923077,AI can help us design products that last longer and reduce the culture of throwaway consumerism.
+1695205398652,214,197,9,0,1,false,false,0.41666666666666663,AI systems should be powered by clean and renewable energy.
+1695205388048,213,197,1,1,1,false,false,0.16666666666666666,"AI must be used to support community gardens and local, sustainable agriculture."
+1695205372817,212,197,6,2,1,false,false,0.29166666666666663,AI should help kids learn about the environment in fun and interactive ways.
+1695205365715,211,197,6,0,1,false,false,0.35000000000000003,"AI can help us make better use of water resources, avoiding waste and saving water for the future."
+1695205357601,210,197,8,0,1,false,false,0.5333333333333333,It is important to use AI to protect endangered species from threats like poaching.
+1695205350305,209,197,5,2,1,false,false,0.37037037037037035,We must ensure that AI technologies do not harm animal habitats.
+1695205342809,208,197,1,0,1,false,false,0.16666666666666666,AI should assist in creating cities with clean air and less noise pollution.
+1695205335787,207,197,9,1,1,false,false,0.5454545454545454,We should be careful that AI doesn't lead to more electronic waste
+1695205316836,205,197,6,0,1,false,false,0.4444444444444444,AI should be used to help farmers grow food in ways that are kinder to the earth.
+1695204758626,203,197,9,1,1,false,false,0.38461538461538464,The financial benefits of AI should be shared with ordinary people - perhaps through a sovereign wealth fund.
+1695204655303,202,197,9,1,1,false,false,0.30303030303030304,The impact of AI on the natural world has not been considered enough.
+1695204582490,201,197,12,1,1,false,false,0.3095238095238095,"I want to live in a functioning democracy, where we all have a say about big changes that affect us, & AI works for us - not corporations"
+1695204446590,200,197,8,2,1,false,false,0.375,"AI can benefit us all, if it is shaped in our interest."
+1695204405716,199,197,6,0,1,false,false,0.3181818181818182,We should have safeguards and rules rather than guard rails.
+1695204372782,198,197,7,0,1,false,false,0.26666666666666666,"The government and AI companies are responsible for poor outcomes of AI, not AI itself."
+1695204246196,197,197,7,1,1,false,false,0.4,An appreciation of multiple ethical perspectives should be mandatory for all AI leaders.
+1695204216253,196,197,11,0,1,false,false,0.4583333333333333,"Governance and regulation should match risk. If there is strong risk, there should be strong governance and regulation -  and vice versa."
+1695204143908,195,197,6,2,1,false,false,0.35000000000000003,"We want to support AI companies, but only if they bring tangible benefits to ordinary people."
+1695204063935,194,197,8,0,1,false,false,0.2727272727272727,Our permission should be sought to use our data in AI systems.
+1695204043309,193,197,7,1,1,false,false,0.3333333333333333,We should be compensated for the use of our data in AI systems.
+1695204001064,192,197,8,0,1,false,false,0.5925925925925926,"Whether governments or corporations, the people who take decisions on AI should take responsibility for them."
+1695203896267,191,197,3,1,1,false,false,0.2857142857142857,"We should challenge statements like ""This is inevitable""."
+1695203853335,190,197,7,0,1,false,false,0.4,"There should be a principle of ""keeping humans in the loop"" when it comes to decision making and AI."
+1695203763842,189,197,4,1,1,false,false,0.2777777777777778,One risk of AI is that it may lead to values lock-in ie it becomes impossible for our society's values and norms to evolve over time.
+1695137596332,188,197,5,1,1,false,false,0.3125,The perspectives of plants and animals should be considered in future AI developments
+1695050486084,187,193,1,2,1,false,false,0.08333333333333333,We should use AI-supported deliberative democracy to renew/update the Universal Declaration of Human Rights as an underlying constitution
+1695050408494,186,193,7,0,1,false,false,0.2,We should split the conversation into (1) how to minimise/prevent harm to democracy and (2) how to maximise benefits to democracy
+1695050325074,185,193,4,0,1,false,false,0.17857142857142855,Ethical philosophers who understand AI (e.g. Carissa Veliz) are a key part of the conversation
+1695043642829,184,2,1,0,1,false,false,0.09523809523809523,"Should Phonons be part of future AI, this should be widely known"
+1695043595274,183,2,5,5,1,false,false,0.20833333333333331,We are unlikely to ever agree on global AI regulation since we do not have World Government - competition is king!
+1695043583696,182,2,2,9,1,false,false,0.08000000000000002,"It's too late to think about AI replacing us or not, either we evolve or become extinct."
+1695043213570,180,2,1,5,1,false,false,0.06666666666666667,"We need a de facto World Government initiated by G7, incorporating members from NATO, EU, the European Political Community and OECD"
+1695043219510,181,2,2,3,1,false,false,0.1111111111111111,We should make a Global Welfare State to mitigate the challenges posed by the turbulent civilisational transition.
+1695043207753,179,2,1,4,1,false,false,0.0625,We should Create Global AI Governance Agency (GAIGA) under the mandate of the G7 to oversee both GAIRA and the GAICA Consortium
+1695043198934,178,2,1,7,1,false,false,0.0625,We need to create one Superintelligence Programme managed by One-AI JV company to streamline AI control capabilities.
+1695043193132,177,2,1,6,1,false,false,0.07142857142857142,We should create One-AI Joint Venture Company to consolidate the most advanced AI development within a single entity.
+1695043188804,176,2,2,2,1,false,false,0.08333333333333333,We need to create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.
+1695043183024,175,2,2,1,1,false,false,0.10714285714285714,We should create a Global AI Regulation Authority (GAIRA) to regulate the use of AI by transforming Global AI Partnership (GPAI)
+1695043175684,174,2,4,3,1,false,false,0.18181818181818182,We should undertake a comprehensive deep and fast reform of democracy
+1695043170545,173,2,5,1,1,false,false,0.13636363636363635,We need to adjust world governance towards a civilisational shift
+1694019634259,152,134,13,2,1,false,false,0.21428571428571427,Setup permanent on-going support for AI Safety Summits as virtual monthly global conferences supported by a debating platform eg Telepresent
+1694794062832,172,186,10,0,1,false,false,0.20833333333333331,"We need to discuss how politics , government and law will be affected by AI. I am a former Member of Parliament."
+1694724955597,171,186,3,0,-1,false,false,0.16666666666666666,How will AI and its spin-offs affect politics and law? Our current systems are not sufficient. I am a former Member of Parliament.
+1694626413557,170,185,12,1,1,false,false,0.36666666666666664,People fear what they do not understand. Developing a better comprehensive narrative on how AI decisions are made is a must.
+1694572059692,169,182,3,2,1,false,false,0.12121212121212122,The epistemic risks of AI are a projection of fears of our own collective shadow. AI is a window to our collective conscious.
+1694528197614,168,181,12,5,1,false,false,0.3157894736842105,Governments cannot fight against this huge technological revolution. They must instead adapt current systems to the new technological order.
+1694434068483,167,175,15,3,1,false,false,0.31578947368421056,AI companions should not be used as a replacement strategy for real human contact in our fight against loneliness and isolation.
+1694434003897,166,175,9,4,1,false,false,0.1388888888888889,Regulators must establish minimum standards of explainability ('black box' problem) and ban the release of new AI tools that do not comply.
+1694011610580,120,123,30,5,1,false,false,0.43103448275862066,We need quality regulation that stops abuses and dangerous developments but is fast and does not prevent new ideas and innovation.
+1694419802550,165,174,12,0,1,false,false,0.34375,"As we expand AI, we collectively redefine what counts as knowledge in our societies: a huge step that needs much more careful reflection"
+1694363338804,164,172,8,2,1,false,false,0.3333333333333333,"Like most technologies that are powerful but dangerous if used incorrectly, users should share responsibility with designers for AI safety."
+1694017846225,137,134,19,5,1,false,false,0.4297520661157025,It is naive to expect that an arms race for AI supremacy should not be allowed. It is already happening at an accelerating pace.
+1694019585617,151,139,15,4,1,false,false,0.25396825396825395,"It is important that AI governance does not lead to confrontation between states, AI should be above politics."
+1694025610614,153,141,4,2,-1,false,false,0.1,Is AI really the future or is something too overhyped??
+1694092951212,159,153,1,8,1,false,false,0.02857142857142857,"Inter-state/national AI forums should focus first and foremost on applications in defense and warfare, before moving on to other concerns."
+1694093322670,160,153,20,0,1,false,false,0.5333333333333334,More attention should be given to risks in psychological exploitation of consumers and civilians by AI developers and users.
+1694213526723,163,166,8,1,1,false,false,0.12857142857142856,Artificial general intelligence (AGI) should make easier life easier but we should aim to have a human-in-the-loop controlling AI.
+1694119087768,162,159,10,3,1,false,false,0.15873015873015872,"I propose AI should be folded into a global-scale Open Knowledge Initiative, similar to Open Science, but broader in scope."
+1694117047068,161,149,4,2,1,false,false,0.11688311688311687,"Use of publicly available data to train AI is inequitable, and will require copyright reform to address."
+1694092298514,158,153,13,3,1,false,false,0.3055555555555555,AI regulation will be contingent on better regulation of mass data collection.
+1694081118663,157,150,9,7,1,false,false,0.1568627450980392,We have reached a point where technology is evolving much faster than humanity and human societies can handle
+1694080252842,156,150,18,2,1,false,false,0.4666666666666667,"My biggest worry is what entities can be trusted with controlling such powerful technology, especially given the interests of Zuck, Musk etc"
+1694041996867,155,144,4,9,1,false,false,0.041666666666666664,AI is the way forward for global cooperation in international law.
+1694027610566,154,34,4,2,1,false,false,0.0641025641025641,"Local CSOs need long term, predictable funding for capacity and consultation to ensure global majority views are meaningfully represented"
+1694019349838,150,134,8,9,-1,false,false,0.06015037593984962,Command 10.	Create a Global Welfare State to mitigate the challenges posed by the turbulent civilisational transition.
+1694019302436,149,134,6,10,-1,false,false,0.08403361344537814,"Command 9.Create a de facto World Government initiated by G7, incorporating members from NATO, EU, the European Political Community and OECD"
+1694019219162,148,134,7,9,-1,false,false,0.09523809523809523,Command 8.Create Global AI Governance Agency (GAIGA) under the mandate of the G7 to oversee both GAIRA and the GAICA Consortium
+1694019131923,147,134,4,10,-1,false,false,0.03676470588235294,Commandment 7.Create one Superintelligence Programme managed by One-AI JV company to streamline AI control capabilities.
+1694019042135,146,134,2,11,-1,false,false,0.038461538461538464,Commandment 6.Create One-AI Joint Venture Company to consolidate the most advanced AI development within a single entity.
+1694019009436,145,134,8,8,-1,false,false,0.09876543209876543,Commandment 5.Create Global AI Control Agency (GAICA) to control AI development process not just reguation. Invite China & others.
+1694018758364,144,134,8,12,-1,false,false,0.07,Commmandment 4. Create Global AI Regulation Authority (GAIRA) to regulate the use of AI by transforming Global AI Partnership (GPAI)
+1694018615501,143,134,10,4,-1,false,false,0.13157894736842105,Commandment 3.	Retain control over AI governance beyond 2030
+1694018595996,142,134,6,12,-1,false,false,0.046052631578947366,Commandment  2.	Undertake a comprehensive deep and fast reform of democracy
+1694018556855,141,134,6,4,-1,false,false,0.1339285714285714,Commandment 1.	Adjust the world governance to a civilisational shift
+1694018488173,140,134,6,12,-1,false,false,0.0374331550802139,We need supper fast global Program of developing friendly Superintelligence by liberal democracies based on kind of 10 Commandments - follow
+1694018228207,139,134,6,9,-1,false,false,0.12605042016806722,"Anonymous said 'Agenda should ask how AI might supplement, but not replace us'. It's too late, either we evolve or become extinct."
+1694018019656,138,134,5,6,-1,false,false,0.13186813186813187,We are unlikely to ever agree on global AI regulation - said anonymous. Agree since we do not have World Government - competition is king!
+1694017308914,136,134,17,20,1,false,false,0.1322314049586777,AI is not only a new type of tecnhology. Most importnatly it is first ever a NEW TYPE OF INTELLIGENCE.
+1694017128499,135,137,11,2,1,false,false,0.18333333333333335,All AI programmes must be coded to self-identity as AI and be accompanied by detection software.
+1694017080361,134,134,2,15,1,false,false,0.03529411764705882,It's too late to democratise AI development. Deveop one single superintelligent AI under international supervision.
+1694016841515,133,134,3,15,1,false,false,0.029411764705882353,Democratisation of the development and deployment of AI woudl only be possibel if we had World Government. It's too late.
+1694016774272,132,134,4,11,1,false,false,0.06617647058823528,It is naive to hope we can still filter which AI we want to develop. There are 40 ChatGPT comapnies now with no control. It's too late.
+1694016640806,131,134,12,4,1,false,false,0.08571428571428573,Pace of AI development should be dictated by the public but realistically it will be AI companies because of exponential pace of change.
+1694016517377,130,134,4,10,1,false,false,0.07500000000000001,"Quite soone we may have AGI, which would be more intelligent and smarter than any humans. It will be AI which will decide on resources."
+1694016429570,129,134,2,10,1,false,false,0.03333333333333333,"Advanced AI should be referred as 'it', since only a single Superintelligence makes sense. Any 'AI wars' will end in a single winner"
+1694014603278,128,122,4,3,-1,false,false,0.07692307692307693,"Is it helpful to think of AI as an 'is' or as an 'are', the multiplicity or singularity of reference reinforcing community or not?"
+1694014363928,127,131,22,1,1,false,false,0.6028708133971292,"With the unlimited potential for AI, there has to be a back up business continuity plan to cater for circumstances when AI could go wrong."
+1694014106917,126,127,10,18,1,false,false,0.10769230769230771,The only way to police the development and use of AI is by using AI itself.
+1694013836702,125,129,20,2,1,false,false,0.4106280193236715,Data assets must be made more widely accessible to ensure AI can be widely developed (democratised); rather than power concentration by few.
+1694013780351,124,129,1,12,1,false,false,0.019047619047619046,Data aggregation is essential to (most) AI training & monitoring. The West has already lost the AI race to the Chinese Communist Party.
+1694013728793,123,129,9,7,1,false,false,0.1764705882352941,The existence of capable AI means increasing the concentration of wealth: accelerating internet driven disintermediation (fewer middlemen)
+1694013621039,122,129,7,15,1,false,false,0.07500000000000001,In a manner similar to companies we should accept that AIs of sufficient capability deserve rights and can own assets (incorporation).
+1694012753965,121,122,1,0,-1,false,false,0.02197802197802198,"Should Phonons be part of future AI, will this be useful, or generally known."
+1694011373098,119,118,7,11,1,false,false,0.0606060606060606,"AI will enhance equity and inclusion, within a context of community value,  improving human responsibility"
+1693951374113,117,112,28,5,1,false,false,0.5387205387205387,AI has the potential to create a more equitable world if approached critically & ethically. I'd like to see the ethics of AI advanced.
+1693988544959,118,113,31,2,1,false,false,0.4975961538461539,We need policy provisions for the design and methods by which AI is developed to ensure it is safe and not harmful or breaking human rights
+1693933991740,116,110,17,1,1,false,false,0.34090909090909094,We need policy provisions for the design and methods by which AI is developed to ensure it is safe and to prevent market fragmentation
+1693933855739,115,110,18,5,1,false,false,0.27667984189723327,"There are cases in which AI should not be implemented or used due to significant systemic or cultural discrimination (e.g., recidivism risk)"
+1693933799161,114,110,19,2,1,false,false,0.3571428571428571,"The US should establish a NIST or FDA-style federal agency to regulate the development and deployment of AI, particularly frontier models."
+1693808008520,113,84,8,4,1,false,false,0.04347826086956521,We should talk about how OpenAI is interfering with non-profit efforts and prevent it somehow
+1693744153664,112,26,25,13,1,false,false,0.35714285714285715,"We are unlikely to ever agree on global AI regulation due to cultural differences, and should discuss the impact of AI regulation boundaries"
+1693743570469,111,26,32,7,1,false,false,0.43636363636363634,"To mitigate AI existential risks we must also research how, and prevent that, AI's can influence and manipulate humans to do their bidding."
+1693663678531,110,97,15,6,1,false,false,0.2391304347826087,There is no such thing as safe open source ai. Any safety measures or bias mitigation can be reverse engineered.
+1693599572111,109,92,12,8,1,false,false,0.14545454545454548,"We need cooperative-ownership of AI models: the missing piece is not regulation, but ownership."
+1693589361026,108,90,18,5,1,false,false,0.24852071005917165,AI development should be targeted at clearly demarcated contexts and the communities in those contexts involved in the development of the AI
+1693582768251,107,21,3,26,1,false,false,0.018518518518518517,International opinion and deliberation on AI is fundamentally risky unless it is restricted to liberal democracies
+1693582576120,106,21,9,15,1,false,false,0.08000000000000002,"DEI-based framings of this debate are silly, just as they would be if applied to nuclear weapons regulation.  Focus on existential risk."
+1693578282989,105,47,15,8,1,false,false,0.13333333333333333,"I think that, on the whole, the West is more advanced and is accelerating faster in AI development, compared to China"
+1693578123437,104,47,6,21,1,false,false,0.01856763925729443,"The biggest AI-related geopolitical risk is the US advancing AI first, and China either copying or stealing those innovations"
+1693578051472,103,47,19,12,1,false,false,0.2,Western arguments that we are in an AI race against China and therefore must innovate quickly are ill-considered
+1693577247868,102,48,33,2,1,false,false,0.3411764705882353,"Short-term AI risks to economic and social inequalities are linked, and should be addressed together in ways that acknowledge intersections"
+1693424491107,99,85,26,15,1,false,false,0.08547008547008546,"The pace of AI development should be dictated by the public, not companies"
+1693424698942,101,85,7,26,1,false,false,0.05128205128205128,The public have sufficient familiarity with the domains affected by AI to make valuable judgements about AI itself
+1693424641352,100,85,1,1,-1,false,false,0.25,AI does not pose substantially different challenges to those we've already addressed in the case of other technologies or science
+1693414420753,98,79,10,14,1,false,false,0.08465608465608465,We should be more worried about AI arms races between corporations than ones between governments.
+1693327807032,97,79,31,6,1,false,false,0.35353535353535354,"More attention should be paid to short-term AI risks related to economic inequality, relative to social inequality, than there is currently."
+1693313163432,96,81,31,6,1,false,false,0.32773109243697474,The way the media report on AI is driving a hype that is counter-productive to the broad objective of developing ethical frameworks.
+1693307093711,95,2,31,1,1,false,false,0.44607843137254893,We should think about many schools of moral philosophy when developing AI
+1693213235851,94,76,43,5,1,false,false,0.4473684210526315,Communities affected by use of AI tools must have a say in decisions about their development or adoption
+1693002672975,85,70,29,13,1,false,false,0.24483306836248012,AI development should not be accelerated on the fear that China might get ahead of the US.
+1693004237112,92,70,37,4,1,false,false,0.43269230769230765,AI regulatory bodies should be created to rapidly respond to novel less-than-existential AI alignment failures while legislation catches up.
+1693032447309,93,71,27,7,1,false,false,0.21978021978021978,"More safety checks, peer review, and scrutiny from regulatory bodies, needs to happen before a Large singular AI training run even begins."
+1693003886932,91,70,8,19,1,false,false,0.03686635944700461,"If mass unemployment ensues from AI, expanding existing welfare programs is preferable to creating a universal basic income (UBI)."
+1693003593141,90,70,12,25,1,false,false,0.0625,"An AI development pause is good for its own sake, even if the time is not used by governments to debate or enact regulations."
+1693003318284,89,70,31,2,1,false,false,0.4423076923076924,"AI alignment failures are better to happen sooner, with less powerful systems, than later, with more powerful systems."
+1693003156211,88,70,10,26,1,false,false,0.05075187969924812,"Artificial general intelligence is likely to be created before 2030, assuming business-as-usual (no major regulation, no new major wars)."
+1693002742772,87,70,10,0,-1,false,false,0.41666666666666663,"Successfully aligned AI will use many schools of moral philosophy, not just one."
+1693002686059,86,70,19,5,1,false,false,0.2784090909090909,A world of many AI superintelligences is preferable to a world with only one AI superintelligence.
+1693002610702,84,70,30,7,1,false,false,0.22090729783037477,Among the goals of an aligned AI superintelligence should be the material prosperity of all humans relatively equally.
+1693002314205,83,70,23,8,1,false,false,0.18796992481203004,The creation of sentient AI should be avoided if non-sentient AI of identical capabilities are possible instead.
+1692956123266,82,48,45,8,1,false,false,0.3416666666666667,"The material costs of computing and AI (electricity, water, land, ...), and who gets to decide to spend those, are a key governance issue"
+1692952562063,81,23,34,12,1,false,false,0.2928104575163399,"On their current development and release paradigm, LLMs are far more likely to pollute and degrade our information ecosystem than improve it"
+1692910954318,80,65,34,1,1,false,false,0.4735729386892178,There needs to be a great shift towards funding/investing in AI interpretability research instead of raw capabilities as soon as possible.
+1692910498170,79,65,43,0,1,false,false,0.4871794871794872,"AI's advantages and weaknesses (Better memory, faster thinking,Heavy energy dependence) Should be communicated more clearly to the public."
+1692896703776,78,21,8,33,1,false,false,0.05263157894736842,The most important consideration is stopping AI from killing all of us and ending the human race.  All other concerns irrelevant.
+1692894764014,77,21,1,0,-1,false,false,0.3333333333333333,"European policy leaders are anti-immigrant, anti-semitic, and anti-American and cannot be trusted to dictate AI values"
+1692894622135,76,21,17,13,1,false,false,0.16,The international community is untrustworthy and has demonstrable biases that should not be carried forward to AI
+1692894597625,75,21,1,0,-1,false,false,0.3333333333333333,Global coordination is infeasible because it would REQUIRE embedding authoritarian Chinese values in AI
+1692894581343,74,21,11,24,1,false,false,0.08316008316008316,Global coordination is infeasible because it would allow authoritarian values to infect the values of AI
+1692892483375,73,2,30,5,1,false,false,0.4125,"An agenda should ask how AI might supplement, but not replace us"
+1692892470596,72,2,33,13,1,false,false,0.22480620155038758,Overreliance on AI may exacerbate a less skilled & less engaged citizenry
+1692892402803,71,2,32,4,1,false,false,0.21577380952380953,An arms race for AI supremacy cannot be allowed
+1692892397838,70,2,39,6,1,false,false,0.43224932249322495,"We must solve for a sustainable, adaptive, & effective global coordination mechanism"
+1692892345150,69,2,40,2,1,false,false,0.5625,"Should think about how AI may enable global coordination solutions, enabling major states/institutions to cooperate against other crises"
+1692892276593,68,2,47,1,1,false,false,0.5454545454545455,"We should consider how to incentivize AI for common good (better democracy, less pollution, improved education) rather than cost-efficiency"
+1692892142177,67,2,47,10,1,false,false,0.2510204081632653,"A business imperative (i.e., profits, growth) must not be the driving force of AI innovation"
+1692821060329,63,54,5,2,1,false,false,0.02932551319648094,Small-world networks provide a precise way of describing how to balance between distribution and regulation of AI.
+1692799361980,54,47,2,0,-1,false,false,0.1875,"How might AI be used to enable global coordination solutions, enabling major states/institutions to cooperate against other crises & x-risks"
+1692884222207,66,56,45,6,1,false,false,0.4421052631578948,"Governments should introduce mandatory reporting requirements for foundation model developers, e.g. at the start or end of training runs."
+1692884151269,65,56,52,2,1,false,false,0.7855297157622738,"Governments should consider public investment in, and development of, AI to steer applications towards generating long-term public benefit."
+1692884098893,64,56,42,1,1,false,false,0.6243902439024391,"Governments should clarify liability law, so that legal & financial liability for AI risk is distributed fairly along AI value chains."
+1692820650532,62,54,35,13,1,false,false,0.2040816326530612,"Asking AI to seek truth may provide some safety, but we should also align AI with other values like having fun, freedom, and love."
+1692820303488,61,54,21,8,1,false,false,0.22702702702702704,Everyone should list their preference for maintaining their individuality as we become increasingly connected to AI and each other.
+1692819838595,60,54,35,21,1,false,false,0.22222222222222218,Predicting as far into the future as possible is critical for existential safety as it allows earlier detection and mitigation of threats.
+1692819737395,59,54,21,19,1,false,false,0.17647058823529416,"AIs potential to help solve major problems related to energy, health, & planetary risks make pausing AI development more risky than not."
+1692819338403,58,54,36,10,1,false,false,0.3888888888888889,"AIs should consider the effect their decisions will have on human freedom & autonomy balanced against on peace, harmony, and safety."
+1692819026844,57,54,22,12,1,false,false,0.22972972972972974,"Love in the forms of connection, tolerance, caring, and compassion are central human values that should be encouraged in AI training."
+1692818782307,56,54,27,21,1,false,false,0.10683760683760683,"Values used in training AIs, like those in Anthropic's Constitutional AI, should be voted on by a global electorate."
+1692811490067,55,52,29,11,1,false,false,0.31578947368421045,"The development of AI companions is net beneficial to humanity, and should correspondingly not be banned."
+1692799242150,53,47,6,1,-1,false,false,0.41666666666666663,"A business imperative (i.e., profits, growth) must not be the driving force of AI innovation—look where that got us with social media"
+1692799070144,52,47,28,24,1,false,false,0.16666666666666666,"At some point we must consider consciousness/sentience and when AI might be ""awake"", potentially deserving ethical rights & considerations"
+1692798897236,51,47,3,1,-1,false,false,0.2,"How might we incentivize AI for common goods (e.g., better democracy, less pollution, improved education) rather than merely cost-efficiency"
+1692798780926,50,47,5,1,-1,false,false,0.3571428571428571,"We must solve for a sustainable, adaptive, & effective global coordination mechanism—an arms race for AI supremacy cannot be allowed"
+1692794392889,49,48,39,19,1,false,false,0.16735028712059064,The epistemic risks of AI are a consequence of how our social structures enable and incentivise wealth accumulation
+1692794170812,48,48,48,9,1,false,false,0.40247678018575844,"AI governance alone is not enough: it is necessary to critique both the state and capitalism, to understand how AI consolidates their power"
+1692793923643,47,48,15,6,-1,false,false,0.2608695652173913,"The issues we are discussing with AI are present in already established areas inc. statistics, quantitative research, and machine learning"
+1692793776522,46,48,2,3,-1,false,false,0.125,"Pol.is is not a deliberation platform: voting on 140 character statements is not discussion, there is no room for nuance"
+1692793658587,45,48,5,0,-1,false,false,0.4,"Truly deliberative and participatory forms of democratic governance require a plurality of processes, all open to discussion and change"
+1692793607983,44,47,47,5,1,false,false,0.49709302325581395,AI could aid in discovering production/extraction efficiencies (of scarce resources) and also accelerate human-caused environmental damage
+1692793493779,43,47,52,9,1,false,false,0.2417695473251029,"AI may perpetuate not only cultural bias, but an ontology that is capitalist/extractive/zero-sum—embedding unsustainable mindsets is a risk"
+1692793478623,42,48,52,5,1,false,false,0.4742647058823529,Steps must be taken to ensure that future technological developments do not concentrate power in the hands of the state or private companies
+1692793120342,41,47,34,16,1,false,false,0.29166666666666663,"In their current level of sophistication, LLMs like ChatGPT do not appear convincingly worrisome—it's what they imply will come next"
+1692793003423,40,47,1,2,-1,false,false,0.1,"Overreliance on AI may exacerbate a less skilled & less engaged citizenry; an agenda should ask how AI might supplement, but not replace us?"
+1692759512461,39,21,17,23,1,false,false,0.1282894736842105,"It is moral to use the threat of war to constrain development of AI, just like we use the threat of war to constrain nuclear development"
+1692759462922,38,21,36,32,1,false,false,0.14906832298136644,We should encourage nation-states to regulate AIs as if they were as risky as nuclear technology
+1692759418271,37,21,21,35,1,false,false,0.11454545454545456,"The most important thing is avoiding the death of the human race; everyday bias from AI models, while terrible, is far less important."
+1692747267815,36,44,43,6,1,false,false,0.4361471861471861,"Future AI models have the potential to lower expertise barriers for crafting biological weapons, which poses a significant global threat"
+1692728964492,35,41,31,3,1,false,false,0.2911764705882353,I think the development of AI will relate heavily to the cultural shifts present in our phase in history w/ institutional trust.
+1692722978671,34,37,17,15,1,false,false,0.1282051282051282,The use of AI in external and internal facing tools should be regulated differently.
+1692722871486,33,37,25,24,1,false,false,0.18535469107551483,Regulation of AI should be different for companies of different sizes.
+1692721009043,32,35,42,4,1,false,false,0.47001223990208074,"We need more pragmatic and less moralistic discussion on how to democratize AI (e.g., public funding (access) and IP reforms(innovation))"
+1692711350471,31,33,19,21,1,false,false,0.09090909090909091,We should discourage any use of AI to generate statements that look like facts.
+1692699494077,30,29,32,48,1,false,false,0.15384615384615385,I am supportive of the pursuit of AI superintelligence as a goal
+1692699027116,29,29,54,30,1,false,false,0.24691358024691357,"Greater focus should be placed on tackling the near-term risks of AI (bias, misinformation, etc.) than the existential risks."
+1692695610742,28,25,50,2,1,false,false,0.6589147286821706,"Greater priority should be awarded to educating the public on AI's societal impacts, including its incorporation into national curriculums"
+1692686308446,27,22,56,13,1,false,false,0.4405737704918033,Companies and institutions should be formally celebrated when they explicitly label interactions with them as AI or human-based
+1692685960872,26,22,53,16,1,false,false,0.3361111111111111,"Societies need to be preemptive and design for mass unemployment linked to AI, rather than wait and react after people start suffering"
+1692605454839,23,17,68,5,1,false,false,0.6327683615819208,"Governance of AI must pay attention to its material dimensions e.g. its energy demands, or the creation of physical infrastructure"
+1692605756942,25,17,10,44,1,false,false,0.031746031746031744,The costs of democratisation of developing and deploying AI outweigh the benefits
+1692605622906,24,17,2,57,1,false,false,0.003623188405797101,"I would accept less regulatory scrutiny of AI development and deployment, if it meant that AI services were cheaper to use"
+1692605079544,22,17,60,15,1,false,false,0.26,Democratisation of the development and deployment of AI is inherently limited if we do not also democratise the ownership of its production.
+1692361462832,21,16,76,1,1,false,false,0.6300000000000001,Decisions about how this tech is developed should not lie solely in the hands of private companies and their employees
+1692361395905,20,16,75,6,1,false,false,0.6746031746031745,"Institutions, business and governments need to be transparent in the ways they use AI, we need legislation and regulation to secure this"
+1692361350582,19,16,63,4,1,false,false,0.5,We should be very weary of AI models being trained on data previously generated by other AI models
+1692349817223,18,15,50,12,1,false,false,0.4751552795031055,The use of AI needs to be embraced within education systems to shift away from memorisation model to a critical and creative one
+1692349627097,17,15,60,19,1,false,false,0.14053254437869822,AI should be embraced for the public good. Private entities controlling either need to be open source or governed by a public body
+1692349443865,16,15,42,12,1,false,false,0.3538011695906432,AI's potential and pitfalls are overstated by AI 'experts'. The conversation about it shouldn't exclude opinions of everyone else
+1692349301010,15,15,31,10,1,false,false,0.22291021671826625,AI will create capacity in the labour market as it takes on easier repetitive tasks. This will should work with not against working reform
+1692349162156,14,14,64,9,1,false,false,0.4225,We need a permanent global deliberative forum for the regulation of AI development.
+1692349077762,13,14,42,6,1,false,false,0.28404344193817876,We must be careful not to conflate dangerous 'language hacking' potential of LLMs etc with the tremendous benefits of focussed AI tools.
+1692291508990,12,11,70,15,1,false,false,0.3824175824175824,The ability for frontier AI models to undermine democracy is an underaddressed problem.
+1692289371702,11,8,83,4,1,false,false,0.8119212962962963,"Global AI regulation needs to involve civil society, academia, industry and the open source community to get to the best possible outcome"
+1692289309214,10,8,80,12,1,false,false,0.3746505125815471,We need global standards in place to evaluate the environmental impact of AI technologies
+1692289274155,9,8,77,3,1,false,false,0.7365079365079366,"We need to foster better education and awareness of generative AI, it’s potential benefits and it’s limitations/biases."
+1692289186186,8,8,78,11,1,false,false,0.48972602739726023,Bias in training data is an area that needs to be urgently addresses to prevent the perpetuation of discrimination and cultural stereotypes
+1692289128243,7,8,55,13,1,false,false,0.3965744400527009,"Global AI regulation needs to empower the open source community as without it, it will be very difficult to have the right checks in place"
+1692285000586,6,2,37,10,1,false,true,0.2049586776859504,My work shows that the data used to train AI is the most important thing to focus on. We should regulate its use carefully.
+1692027970244,3,2,27,39,1,false,false,0.05383022774327122,I am nervous and pessimistic about the current direction of AI development.
+1692092132346,4,5,1,0,-1,false,false,0.3333333333333333,"If we had a visual language for explaining AI systems to stakeholders, they would have more power to effect positive change."
+1692092283616,5,5,49,8,1,false,false,0.26502311248073956,"We need multiple approaches to governing AI, Focus on one too much means privileging some aspects of society over others."
+1692027825057,2,2,57,12,1,false,false,0.25452488687782804,Sovereign AI capacity is essential: it cannot just be private companies developing AI.
+1692027711852,1,2,54,22,1,false,false,0.37142857142857144,We need a single *international* approach to AI governance - national is not enough.
+1691664050929,0,2,31,22,1,false,true,0.17543859649122806,LLMs like ChatGPT and Bard should give the same answers to prompts in Pakistan as they do in California.
